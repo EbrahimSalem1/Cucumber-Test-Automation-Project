@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Cucumber-Test-Automation-Project
-=======
+
 <h1> Cucumber web Test Automation Project with Java</h1>
 
 <p>Web test automation example project (Home Page - Login Page) using IntelliJ IDEA Community, Java, Maven, Junit, Selenium , Cucumber and Page Object Model (POM)</p>
@@ -19,4 +18,4 @@
 <h3>IDEA</h3>
 
 1. Intellij
->>>>>>> f745b85 (Cucumber)
+
