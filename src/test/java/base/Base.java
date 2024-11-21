@@ -23,12 +23,12 @@ public class Base {
 
     public static void setUp(){
         if (props.getProperty("browser").equalsIgnoreCase("chrome")){
-            driver = new FirefoxDriver();
+            driver = new ChromeDriver();
             driver.manage().window().maximize();
             driver.get(props.getProperty("Url"));
             homePage = new HomePage(driver);
         } else if (props.getProperty("browser").equalsIgnoreCase("firefox")) {
-            driver = new ChromeDriver();
+            driver = new  FirefoxDriver();
             driver.manage().window().maximize();
             driver.get(props.getProperty("Url"));
             homePage = new HomePage(driver);
