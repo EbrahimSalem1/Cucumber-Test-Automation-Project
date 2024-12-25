@@ -1,4 +1,4 @@
-name: Run BDD Automated UI Tests
+name: Runs BDD Automated UI Tests
 
 on:
   push:
