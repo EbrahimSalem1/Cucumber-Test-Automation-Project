@@ -14,6 +14,7 @@
 3. Maven - Build and package management
 4. Hooks
 5. Junit - Test execution and Reporting (Cucumber Html) - (Cucumber Json) Reports
+6. CI/CD GetHub Actions
 
 <h3>IDEA</h3>
 
